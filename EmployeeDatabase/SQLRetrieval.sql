@@ -67,5 +67,3 @@ WHERE	Ssn IN
 		 FROM	DEPENDENT
 		 GROUP BY Dependent_name
 		 HAVING COUNT(Dependent_name)>1));
-
--- SOURCE /Users/Prateek/Desktop/UCONN/2020-2021/CSE 4701/Project 1/SQLRetrieval.txt
