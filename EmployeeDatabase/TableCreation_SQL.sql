@@ -1,6 +1,4 @@
 /*
-/usr/local/mysql/bin/mysql -uroot -p
-/Users/Prateek/Desktop/UCONN/2020-2021/CSE 4701/Project 1/TableCreation_SQL.txt
 CREATE SCHEMA COMPANY;
 USE COMPANY;
 */

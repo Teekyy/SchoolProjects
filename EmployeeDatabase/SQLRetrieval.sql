@@ -1,6 +1,3 @@
-/*
-/usr/local/mysql/bin/mysql -uroot -p
-*/
 USE COMPANY;
 
 -- a
